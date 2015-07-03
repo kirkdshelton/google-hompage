@@ -1,0 +1,147 @@
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 1);
+    border-width: 0px;
+    border-color: #fff;
+    border-radius: 4px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: #fff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(85, 85, 85, 1);
+    background-color: rgba(231, 231, 231, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #ddd;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #ffffff;
+}
+
+.navbar a:link{
+
+	color:#333;
+}
+
+.navbar a:visited{
+
+	color:#666;
+}
+
+.nav navbar-nav navbar-left{
+
+	padding-right: 0px;
+}
+
+.navbar-toggle{
+
+	color:#333;
+}
+
+.google-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+    margin-bottom: 20px;
+ }
+
+a.search-button:hover {
+    text-decoration: none;
+
+}
+
+.search-container {
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+#search-form {
+    width: 540px;
+    height: 32px;
+    border: 1px solid #CCC;
+    margin: 0 auto;
+}
+
+#search-form img {
+    margin-top: 4px;
+    opacity: 0.6;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+    border: 0px;
+    float: left;
+}
+
+.buttons {
+    margin: 10px auto 0 auto;
+    width: 260px;
+
+
+}
+
+.search-button1 {
+
+    color:#666666;
+    background:#CCC;
+    width: 110px;
+    height: 30px;
+    border: 1px solid #999;
+    margin-right: 15px;
+    float: left;
+    font-size: 11px;
+    font-family: sans-serif;
+    padding-top: 5px;
+    padding-left: 15px
+}
+
+.search-button2 {
+
+    color:#666666;
+    background:#CCC;
+    width: 110px;
+    height: 30px;
+    border: 1px solid #999;
+    margin-right: 15px;
+    float: left;
+    font-size: 11px;
+    font-family: sans-serif;
+    padding-top: 5px;
+    padding-left: 10px
+}
+
+span.button-label {
+    font-weight: 900;
+
+}
+
+
+
+
+
+
