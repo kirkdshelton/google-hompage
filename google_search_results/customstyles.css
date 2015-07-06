@@ -1,3 +1,5 @@
+/* Section below deals with navigation bar and search */
+
 #custom-bootstrap-menu.navbar-default .navbar-brand {
     color: rgba(119, 119, 119, 1);
 }
@@ -145,6 +147,91 @@ span.button-label {
    border: 1px solid #ccc;
 
 }
+
+/* This section below deals with search result layout */
+
+h4 {
+    
+    color:#0033cc;
+    margin-left: 175px;
+    padding-top: 15px;
+}
+p {
+  
+    color:#333;
+    opacity: .55;
+    margin-left: 175px;
+}
+
+h3 small {
+
+    color: #333;
+    opacity: .55;
+    margin-left: 175px;
+    padding-bottom: 50px;
+}
+
+h4 small {
+
+    color: #008000;
+}
+
+.container{
+    position: relative;
+}
+.block {
+  position: absolute;
+  top: 59px;
+}
+
+#block.left {
+  position: absolute;
+  top: 19px;
+}
+
+#block.left2 {
+  position: absolute;
+  top: 19px;
+}
+
+#block.left3 {
+  position: absolute;
+  top: 19px;
+}
+
+#block.right {
+  position: absolute;
+  top: 107px;
+
+}
+
+#block.right_second {
+  position: absolute;
+  top: 18px;
+
+}
+
+#block.right4{
+  position: absolute;
+  top: 18px;
+
+}
+
+
+#block.right5{
+  position: absolute;
+  top: 18px;
+
+}
+
+hr {
+
+    width: 75%;
+    position: absolute;
+    bottom: -50px;
+    margin-left: 200px;
+}
+
 
 
 
