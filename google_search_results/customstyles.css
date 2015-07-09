@@ -200,12 +200,16 @@ h4 small {
 }
 
 #block.right {
+
+  
   position: absolute;
   top: 107px;
 
 }
 
 #block.right_second {
+  
+  
   position: absolute;
   top: 18px;
 
@@ -226,11 +230,29 @@ h4 small {
 
 hr {
 
-    width: 75%;
+    width: 145%;
     position: absolute;
-    bottom: -50px;
-    margin-left: 200px;
+    bottom: 85px;
+    margin-left: 195px;
 }
+
+#block.ad_space_right {
+
+    position: absolute;
+    top: 122px;
+
+}
+
+#block.ad_space_right_second {
+
+    position: absolute;
+    
+
+}
+
+
+
+
 
 
 
